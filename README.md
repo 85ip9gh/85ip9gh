@@ -1,16 +1,35 @@
 ### ✨ Check out my websites!
 [![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](http://40.76.224.112:3000/home)
 [![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
-# 💫 About Me
-### Hello! 👋
-I'm a second-year Computer Science student at Saint Mary's University with a passion for software engineering and full-stack web development. 
+# 🔅 About Me
+### Hello! 👋😃
+I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University. My heart lies in software engineering and full-stack web development.
 
-I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
+### 🚀 About Me
 
-When I'm not studying or working on code, you can find me reading a book, crafting origami, or hitting the gym.
+- 💻 Passionate about exploring diverse tech stacks, cybersecurity, networking, cloud technologies, and embedded development.
+- 🌐 Committed to understanding the entire software development process and workflow.
+- 📚 Always seeking new opportunities to learn and grow, particularly through collaborative efforts to bring ideas to life.
+
+### 🌱 Current Learning Journey
+
+I'm currently immersed in building the Cube Store, an Angular app served with Express.js, as part of my ongoing journey to expand my technical toolkit. Whether delving into coding, exploring cybersecurity, or navigating cloud technologies, I'm fully committed to the learning process!
+
+### 📖 Beyond the Code
+
+When not immersed in lines of code, you can find me:
+- 📚 Reading a good book.
+- 💪 Hitting the gym to stay physically and mentally fit.
+- 🎨 Crafting intricate origami designs.
+
+### 🌟 Favorite Quote
+"One step forward, one hundred steps back". Never stop walking.
+
+### 🚀 Let's Connect!
 
 I'm excited to see where my passion takes me. Let's connect and chat about tech!
-# 💻 Technologies I Use
+
+# 💻 Technologies I Use 💻
 ### Programming Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
