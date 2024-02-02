@@ -5,13 +5,12 @@
 
 [![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
   - Check out my Cube Store, an e-commerce store dealing in AI-generated cubes, showcasing my expertise in Angular, Express.js, and Stable Diffusion.
-  - [![Car Sale Application](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
+  - [![Car Store](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
 # 🔅 About Me
 ### Hello! 👋😃
-I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University. My heart lies in software engineering and full-stack web development.
+I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University, driven by an intense enthusiasm for both software engineering and full-stack web development.
 
-### 🚀 About Me
 - 💻 Passionate about exploring diverse tech stacks, cybersecurity, networking, cloud technologies, and embedded development.
 - 🌐 Committed to understanding the entire software development process and workflow.
 - 📚 Always seeking new opportunities to learn and grow, particularly through collaborative efforts to bring ideas to life.
