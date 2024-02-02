@@ -4,13 +4,11 @@
 
 [![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](https://github.com/85ip9gh/car-sale-application)
   - A platform for buying and selling cars, developed with Java Spring Boot, React, and MySQL. 
-  - [Explore Repository](https://github.com/YourUsername/car-sale-application)
-  - [Visit Live Site](http://40.76.224.112:3000/home)
+  - [Explore Repository](https://github.com/85ip9gh/car-sale-application)
 
-[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](https://github.com/85ip9gh/cube-store-application)
+[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
   - Check out my Cube Store, an e-commerce store dealing in AI-generated cubes, showcasing my expertise in Angular, Express.js and Stable Diffusion.
   - [Explore Repository](https://github.com/85ip9gh/cube-store-application)
-  - [Visit Live Site](http://18.118.238.40:4200)
 
 # 🔅 About Me
 ### Hello! 👋😃
