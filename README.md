@@ -1,5 +1,5 @@
 ### ✨ Check out my websites!
-[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonecs&logoColor=white&color=FF9900)](http://40.76.224.112:3000/home)
+[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](http://40.76.224.112:3000/home)
 [![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
 # 💫 About Me
 ### Hello! 👋
