@@ -46,7 +46,7 @@ I'm excited to see where my passion takes me. Let's connect and chat about tech!
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ### AI Technologies
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/OpenAI-8BC34A?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-8BC34A?style=for-the-badge&logo=openai&logoColor=white)
 ![StableDiffusion](https://img.shields.io/badge/Stable%20Diffusion-87CEEB?style=for-the-badge&logo=openaigym&logoColor=white)
 ### Build Tools
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
