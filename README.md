@@ -1,6 +1,6 @@
 ### ✨ Check out my websites!
-[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonecs&logoColor=white&color=#FF9900)](http://40.76.224.112:3000/home)
-[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=#0078D4)](http://18.118.238.40:4200)
+[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonecs&logoColor=white&color=FF9900)](http://40.76.224.112:3000/home)
+[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
 # 💫 About Me
 ### Hi there 👋
 I'm a second-year Computer Science student at Saint Mary's University with a passion for software engineering and full-stack web development. 
