@@ -1,13 +1,13 @@
 ### ✨ Check out my websites!
-[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonaws&logoColor=white&color=0C343D)](http://40.76.224.112:3000/home)  
-[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0C343D)](http://18.118.238.40:4200)
+[![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonecs&logoColor=white&color=#FF9900)](http://40.76.224.112:3000/home)
+[![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=#0078D4)](http://18.118.238.40:4200)
 # 💫 About Me
 ### Hi there 👋
 I'm a second-year Computer Science student at Saint Mary's University with a passion for software engineering and full-stack web development. 
 
 I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
 
-When I'm not studying or working on code, you can find me reading a book, enjoying a movie, or hitting the gym.
+When I'm not studying or working on code, you can find me reading a book, crafting origami, or hitting the gym.
 
 I'm excited to see where my passion takes me. Let's connect and chat about tech!
 # 💻 Technologies I Use
@@ -56,9 +56,9 @@ I'm excited to see where my passion takes me. Let's connect and chat about tech!
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ### Other Technologies
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 # 📈 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=85ip9gh&show_icons=true&locale=en&layout=compact" alt="85ip9gh" />
