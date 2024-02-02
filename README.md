@@ -2,29 +2,24 @@
 [![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](https://github.com/85ip9gh/car-sale-application)
   - A platform for buying and selling cars, developed with Java Spring Boot, React, and MySQL.
   - [![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/car-sale-application)
-  - [Explore Repository](https://github.com/85ip9gh/car-sale-application)
 
 [![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
   - Check out my Cube Store, an e-commerce store dealing in AI-generated cubes, showcasing my expertise in Angular, Express.js, and Stable Diffusion.
   - [![Car Sale Application](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
-  - [Explore Repository](https://github.com/85ip9gh/cube-store-application)
 
 # 🔅 About Me
 ### Hello! 👋😃
 I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University. My heart lies in software engineering and full-stack web development.
 
 ### 🚀 About Me
-
 - 💻 Passionate about exploring diverse tech stacks, cybersecurity, networking, cloud technologies, and embedded development.
 - 🌐 Committed to understanding the entire software development process and workflow.
 - 📚 Always seeking new opportunities to learn and grow, particularly through collaborative efforts to bring ideas to life.
 
 ### 🌱 Current Learning Journey
-
 I'm currently immersed in building the Cube Store, an Angular app served with Express.js, as part of my ongoing journey to expand my technical toolkit. Whether delving into coding, exploring cybersecurity, or navigating cloud technologies, I'm fully committed to the learning process!
 
 ### 📖 Beyond the Code
-
 When not immersed in lines of code, you can find me:
 - 📚 Reading a good book.
 - 💪 Hitting the gym to stay physically and mentally fit.
@@ -34,7 +29,6 @@ When not immersed in lines of code, you can find me:
 "One step forward, one hundred steps back". Never stop walking.
 
 ### 🚀 Let's Connect!
-
 I'm excited to see where my passion takes me. Let's connect and chat about tech!
 
 # 💻 Technologies I Use 💻
