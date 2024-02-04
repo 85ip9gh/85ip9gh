@@ -11,7 +11,7 @@
 ### Hello! 👋
 I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University, driven by an intense enthusiasm for both software engineering and full-stack web development.
 
-- 💻 Passionate about exploring diverse tech stacks and full-stack application development.
+- 💻 Passionate about exploring diverse tech stacks
 - 🌐 Committed to understanding the entire software development process and workflow.
 - 📚 Always seeking new opportunities to learn and grow, particularly through collaborative efforts to bring ideas to life.
 
