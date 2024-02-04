@@ -8,7 +8,7 @@
   [![Car Store](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
 # 🔅 About Me
-### Hello! 👋😃
+### Hello! 👋
 I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University, driven by an intense enthusiasm for both software engineering and full-stack web development.
 
 - 💻 Passionate about exploring diverse tech stacks and full-stack application development.
