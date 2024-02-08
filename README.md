@@ -25,7 +25,7 @@ When not immersed in lines of code, you can find me:
 - 🎨 Crafting intricate origami designs.
 
 ### 🌟 Favorite Quote
-"One step forward, one hundred steps back". Never stop walking.
+"One step forward, one hundred steps back".
 
 ### 🚀 Let's Connect!
 I'm excited to see where my passion takes me. Let's connect and chat about tech!
