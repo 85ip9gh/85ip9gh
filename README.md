@@ -22,7 +22,7 @@ I'm currently immersed in building the Cube Store, an Angular app served with Ex
 When not immersed in lines of code, you can find me:
 - 📚 Reading a good book.
 - 💪 Hitting the gym to stay physically and mentally fit.
-- 🎨 Crafting intricate origami designs.
+- ⏰ Sleeping to rest my body and mind
 
 ### 🚀 Let's Connect!
 I'm excited to see where my passion takes me. Let's connect and chat about tech!
