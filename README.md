@@ -24,9 +24,6 @@ When not immersed in lines of code, you can find me:
 - 💪 Hitting the gym to stay physically and mentally fit.
 - ⏰ Sleeping to rest my body and mind
 
-### 🚀 Let's Connect!
-I'm excited to see where my passion takes me. Let's connect and chat about tech!
-
 # 💻 Technologies I Use 💻
 ### Programming Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
