@@ -20,8 +20,8 @@ I'm currently immersed in building the Cube Store, an Angular app served with Ex
 
 ### 📖 Beyond the Code
 When not immersed in lines of code, you can find me:
-- 📚 Reading a good book.
-- 💪 Hitting the gym to stay physically and mentally fit.
+- 📚 Reading a good book
+- 💪 Hitting the gym to stay physically and mentally fit
 - ⏰ Sleeping to rest my body and mind
 
 # 💻 Technologies I Use 💻
