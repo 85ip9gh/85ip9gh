@@ -7,23 +7,6 @@
   - An e-commerce store specializing in AI-generated cubes, showcasing my expertise in Angular, Express.js, and Stable Diffusion.  
   [![Cube Store Repository](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
-# 🔅 About Me
-### Hello! 👋
-I'm Pesanth Janaseth Rangaswamy Anitha, a second-year Computer Science student at Saint Mary's University, driven by an intense enthusiasm for both software engineering and full-stack web development.
-
-- 💻 Passionate about exploring diverse tech stacks
-- 🌐 Committed to understanding the entire software development process and workflow.
-- 📚 Always seeking new opportunities to learn and grow, particularly through collaborative efforts to bring ideas to life.
-
-### 🌱 Current Learning Journey
-I'm currently immersed in building the Cube Store, an Angular app served with Express.js, as part of my ongoing journey to expand my technical toolkit. Whether delving into coding, exploring cybersecurity, or navigating cloud technologies, I'm fully committed to the learning process!
-
-### 📖 Beyond the Code
-When not immersed in lines of code, you can find me:
-- 📚 Reading a good book
-- 💪 Hitting the gym to stay physically and mentally fit
-- ⏰ Sleeping to rest my body and mind
-
 # 💻 Technologies I Use 💻
 ### Programming Languages and Technologies I'm Most Comfortable With
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
