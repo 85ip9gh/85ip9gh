@@ -4,7 +4,7 @@
   [![Car Sale Application Repository](https://img.shields.io/badge/Car%20Sale%20Application%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/car-sale-application)
 
 [![Cube Store](https://img.shields.io/badge/Cube%20Store-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
-  - An e-commerce store specializing in AI-generated cubes, showcasing my expertise in Angular, Express.js, and Stable Diffusion.  
+  - An e-commerce store specializing in AI-generated cubes, showcasing my expertise in Stable Diffusion, Angular, Express.js, and MongoDB.  
   [![Cube Store Repository](https://img.shields.io/badge/Cube%20Store%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
 # 💻 Technologies I Use 💻
