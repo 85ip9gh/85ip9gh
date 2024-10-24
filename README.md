@@ -1,4 +1,4 @@
-h### ✨ Check out my websites!   
+### ✨ Check out my websites!   
 [![Car Sale Application](https://img.shields.io/badge/Car%20Sale%20Application-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](http://40.76.224.112:3000)
   - **NOT DEPLOYED ATM, RAN OUT OF GCP + AZURE STUDENT CREDITS**
   - A platform for buying and selling cars, developed with Java Spring Boot, React, and MySQL.  
