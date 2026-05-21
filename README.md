@@ -4,7 +4,7 @@
   [![ShiftLane](https://img.shields.io/badge/ShiftLane%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/car-sale-application)
 
 [![CubeMint](https://img.shields.io/badge/CubeMint-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
-  - An e-commerce store specializing in showcasing my expertise in Stable Diffusion, Angular, Express.js, and MongoDB.  
+  - An e-commerce store specialized in cubes; showcasing my expertise in Stable Diffusion, Angular, Express.js, and MongoDB.  
   [![CubeMint](https://img.shields.io/badge/CubeMint-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
 # 💻 Technologies I Use 💻
