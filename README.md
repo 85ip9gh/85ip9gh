@@ -1,9 +1,9 @@
 ### ✨ Check out my websites!   
-[![SiftLane](https://img.shields.io/badge/ShiftLane-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](http://40.76.224.112:3000)
+[![ShiftLane](https://img.shields.io/badge/ShiftLane-none?style=for-the-badge&logo=amazonec2&logoColor=white&color=FF9900)](http://40.76.224.112:3000)
   - A platform for buying and selling cars, developed with Java Spring Boot, React, and MySQL.  
   [![ShiftLane](https://img.shields.io/badge/ShiftLane%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/car-sale-application)
 
-[![CubeMint](https://img.shields.io/badge/CubeMint-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://18.118.238.40:4200)
+[![CubeMint](https://img.shields.io/badge/CubeMint-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://3.144.128.221:4200)
   - An e-commerce store specializing in artisan cubes; showcasing my expertise in Stable Diffusion, Angular, Express.js, and MongoDB.  
   [![CubeMint](https://img.shields.io/badge/CubeMint-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
