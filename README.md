@@ -5,7 +5,7 @@
 
 [![Cube Store](https://img.shields.io/badge/CubeStore-none?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)](http://3.13.31.195:4200)
   - An e-commerce store specializing in artisan cubes; showcasing my expertise in Stable Diffusion, Angular, Express.js, and MongoDB.  
-  [![CubeMint](https://img.shields.io/badge/CubeStore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
+  [![Cube Store](https://img.shields.io/badge/CubeStore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
 
 # 💻 Technologies I Use 💻
 ### Programming Languages and Technologies I'm Most Comfortable With
