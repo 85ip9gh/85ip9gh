@@ -16,47 +16,47 @@
 
 ### KubePulse
 
-[![KubePulse overview](https://img.shields.io/badge/KubePulse-Technical_Overview-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://pesanth.com/work/kubepulse)
-![Source](https://img.shields.io/badge/Source-Private-64748B?style=for-the-badge&logo=github&logoColor=white)
+[![KubePulse overview](https://img.shields.io/badge/KubePulse-Technical_Overview-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=7C3AED)](https://pesanth.com/work/kubepulse)
+![Source](https://img.shields.io/badge/Source-Private-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=9333EA)
 
 A production-minded Kubernetes deployment demo built with FastAPI, Docker, Kustomize, health probes, resource controls, rolling updates, and optional ingress and autoscaling. The technical overview documents its architecture, verification evidence, and design decisions.
 
 ### Incident Triage Assistant
 
-[![Incident Triage Assistant overview](https://img.shields.io/badge/Incident_Triage_Assistant-Technical_Overview-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)](https://pesanth.com/work/incident-triage-assistant)
-![Source](https://img.shields.io/badge/Source-Private-64748B?style=for-the-badge&logo=github&logoColor=white)
+[![Incident Triage Assistant overview](https://img.shields.io/badge/Incident_Triage_Assistant-Technical_Overview-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=4F46E5)](https://pesanth.com/work/incident-triage-assistant)
+![Source](https://img.shields.io/badge/Source-Private-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=C026D3)
 
 A retrieval-augmented incident-triage workflow with a dependency-free BM25 index, structured Claude outputs, a CLI, a Streamlit interface, and an offline evaluation suite.
 
 ### WinGet App Installer
 
-[![WinGet repository](https://img.shields.io/badge/WinGet_App_Installer-Repository-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/85ip9gh/winget-app-installer)
-[![WinGet release](https://img.shields.io/badge/Download-Latest_Release-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/85ip9gh/winget-app-installer/releases/latest)
-[![WinGet overview](https://img.shields.io/badge/Architecture-Technical_Overview-F59E0B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://pesanth.com/work/winget-app-installer)
+[![WinGet repository](https://img.shields.io/badge/WinGet_App_Installer-Repository-0078D4?style=for-the-badge&logo=windows11&logoColor=white&labelColor=075985)](https://github.com/85ip9gh/winget-app-installer)
+[![WinGet release](https://img.shields.io/badge/Download-Latest_Release-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/85ip9gh/winget-app-installer/releases/latest)
+[![WinGet overview](https://img.shields.io/badge/Architecture-Technical_Overview-F59E0B?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=EA580C)](https://pesanth.com/work/winget-app-installer)
 
 A Windows desktop utility for discovering, selecting, and bulk-installing WinGet packages through a guided interface, with automated release builds and downloadable binaries.
 
 ### CubeMint
 
-[![CubeMint repository](https://img.shields.io/badge/CubeMint-Repository-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/85ip9gh/cube-store-application)
-[![CubeMint overview](https://img.shields.io/badge/Architecture-Technical_Overview-10B981?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://pesanth.com/work/cubemint)
-![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-64748B?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![CubeMint repository](https://img.shields.io/badge/CubeMint-Repository-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=B91C1C)](https://github.com/85ip9gh/cube-store-application)
+[![CubeMint overview](https://img.shields.io/badge/Architecture-Technical_Overview-10B981?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=047857)](https://pesanth.com/work/cubemint)
+![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-F97316?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=7C2D12)
 
 A full-stack Angular and Express commerce platform with MongoDB, Stripe Checkout, responsive product discovery, cart workflows, and Docker packaging. The former AWS deployment is offline; the repository and technical overview document the verified implementation and current status.
 
 ### ShiftLane
 
-[![ShiftLane repository](https://img.shields.io/badge/ShiftLane-Repository-FF6B35?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/85ip9gh/car-sale-application)
-[![ShiftLane overview](https://img.shields.io/badge/Architecture-Technical_Overview-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://pesanth.com/work/shiftlane)
-![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-64748B?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![ShiftLane repository](https://img.shields.io/badge/ShiftLane-Repository-FF6B35?style=for-the-badge&logo=springboot&logoColor=white&labelColor=EA580C)](https://github.com/85ip9gh/car-sale-application)
+[![ShiftLane overview](https://img.shields.io/badge/Architecture-Technical_Overview-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0E7490)](https://pesanth.com/work/shiftlane)
+![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-F97316?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=7C3AED)
 
 A historical React and Spring Boot marketplace demonstrating JWT authentication, role-based access, MySQL persistence, and Docker packaging. Its former GCP and Azure deployments are offline, so it is presented as source and architecture evidence rather than a live service.
 
 ## 📊 Verified engineering impact
 
-![Dashboard components](https://img.shields.io/badge/Customer_Dashboard_Components-24%2B-7C3AED?style=for-the-badge)
-![Delivery pipelines](https://img.shields.io/badge/Azure_CI%2FCD_Pipelines-39%2B-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Production incidents](https://img.shields.io/badge/Production_Incidents_Resolved-50%2B-EA580C?style=for-the-badge&logo=datadog&logoColor=white)
+![Dashboard components](https://img.shields.io/badge/Customer_Dashboard_Components-24%2B-7C3AED?style=for-the-badge&labelColor=4C1D95)
+![Delivery pipelines](https://img.shields.io/badge/Azure_CI%2FCD_Pipelines-39%2B-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=075985)
+![Production incidents](https://img.shields.io/badge/Production_Incidents_Resolved-50%2B-EA580C?style=for-the-badge&logo=datadog&logoColor=white&labelColor=9A3412)
 
 - Built customer-facing financial dashboards across 24+ components.
 - Delivered 39+ Azure CI/CD pipelines using Ansible and Docker.
@@ -101,4 +101,4 @@ A historical React and Spring Boot marketplace demonstrating JWT authentication,
 
 Every featured project has a recruiter-friendly technical overview covering its purpose, use cases, top-down architecture, engineering decisions, verification evidence, and limitations.
 
-[![Explore the portfolio](https://img.shields.io/badge/Explore_All_Projects-pesanth.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pesanth.com/#work)
+[![Explore the portfolio](https://img.shields.io/badge/Explore_All_Projects-pesanth.com-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7C3AED)](https://pesanth.com/#work)
