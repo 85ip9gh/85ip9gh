@@ -44,13 +44,13 @@ A Windows desktop utility for discovering, selecting, and bulk-installing WinGet
 
 A full-stack Angular and Express commerce platform with MongoDB, Stripe Checkout, responsive product discovery, cart workflows, and Docker packaging. The former AWS deployment is offline; the repository and technical overview document the verified implementation and current status.
 
-### ShiftLane
+### Car Sale Application
 
-[![ShiftLane repository](https://img.shields.io/badge/ShiftLane-Repository-FF6B35?style=for-the-badge&logo=springboot&logoColor=white&labelColor=EA580C)](https://github.com/85ip9gh/car-sale-application)
-[![ShiftLane overview](https://img.shields.io/badge/Architecture-Technical_Overview-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0E7490)](https://pesanth.com/work/shiftlane)
-![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-F97316?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=7C3AED)
+[![Car Sale Application live site](https://img.shields.io/badge/Live-carsale.pesanth.com-22C55E?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=15803D)](https://carsale.pesanth.com)
+[![Car Sale Application repository](https://img.shields.io/badge/Car_Sale_Application-Repository-FF6B35?style=for-the-badge&logo=springboot&logoColor=white&labelColor=EA580C)](https://github.com/85ip9gh/car-sale-application)
+[![Car Sale Application overview](https://img.shields.io/badge/Architecture-Technical_Overview-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0E7490)](https://pesanth.com/work/car-sale-application)
 
-A historical React and Spring Boot marketplace demonstrating JWT authentication, role-based access, MySQL persistence, and Docker packaging. Its former GCP and Azure deployments are offline, so it is presented as source and architecture evidence rather than a live service.
+A React and Spring Boot peer-to-peer car marketplace with JWT authentication, role-based access, MySQL persistence, and Docker packaging. Live at [carsale.pesanth.com](https://carsale.pesanth.com), self-hosted on a Linux server behind an outbound-only Cloudflare Tunnel. Sign in as `demo` / `demo1234` to browse the market, list a vehicle, and buy from another seller.
 
 ## 📊 Verified engineering impact
 
