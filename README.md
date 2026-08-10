@@ -36,13 +36,13 @@ A retrieval-augmented incident-triage workflow with a dependency-free BM25 index
 
 A Windows desktop utility for discovering, selecting, and bulk-installing WinGet packages through a guided interface, with automated release builds and downloadable binaries.
 
-### CubeMint
+### Cube Store
 
-[![CubeMint repository](https://img.shields.io/badge/CubeMint-Repository-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=B91C1C)](https://github.com/85ip9gh/cube-store-application)
-[![CubeMint overview](https://img.shields.io/badge/Architecture-Technical_Overview-10B981?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=047857)](https://pesanth.com/work/cubemint)
-![Status](https://img.shields.io/badge/Cloud_Deployment-Historical-F97316?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=7C2D12)
+[![Cube Store live site](https://img.shields.io/badge/Live-cubestore.pesanth.com-22C55E?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=15803D)](https://cubestore.pesanth.com)
+[![Cube Store repository](https://img.shields.io/badge/Cube_Store-Repository-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=B91C1C)](https://github.com/85ip9gh/cube-store-application)
+[![Cube Store overview](https://img.shields.io/badge/Architecture-Technical_Overview-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0E7490)](https://pesanth.com/work/cube-store)
 
-A full-stack Angular and Express commerce platform with MongoDB, Stripe Checkout, responsive product discovery, cart workflows, and Docker packaging. The former AWS deployment is offline; the repository and technical overview document the verified implementation and current status.
+A full-stack Angular and Express commerce platform with MongoDB, Stripe Checkout, responsive product discovery, cart workflows, and Docker packaging. Live at [cubestore.pesanth.com](https://cubestore.pesanth.com), self-hosted on a Linux server behind an outbound-only Cloudflare Tunnel. The public demo is deliberately read-only: browse, search, and filter all 66 products, with checkout disabled.
 
 ### Car Sale Application
 
