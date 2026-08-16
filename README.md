@@ -20,7 +20,7 @@
   <sub>Open to software engineering roles in Canada.</sub>
 </p>
 
-## Selected projects.
+## Selected projects
 
 Flagship full-stack systems, cloud backend services, and AI reliability tooling. Every project below has a technical overview covering its purpose, architecture, engineering decisions, verification evidence, and limitations.
 
@@ -71,7 +71,7 @@ A retrieval-augmented incident-triage workflow with a dependency-free BM25 index
 
 A Windows desktop utility for discovering, selecting, and bulk-installing WinGet packages through a guided interface, with automated release builds and downloadable binaries.
 
-## Capabilities.
+## Capabilities
 
 **Core languages and application development**
 
