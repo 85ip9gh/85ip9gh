@@ -112,11 +112,17 @@ A Windows desktop utility for discovering, selecting, and bulk-installing WinGet
 ## GitHub activity.
 
 <p align="center">
-  <img width="49%" src="./assets/github-stats.svg" alt="Pesanth's verified GitHub snapshot" />
-  <img width="49%" src="./assets/top-languages.svg" alt="Languages used across Pesanth's public repositories" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
+    <img width="49%" src="./assets/github-stats-light.svg" alt="Pesanth's GitHub snapshot: contributions, public repositories, public commits, and pull requests over the last twelve months" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg" />
+    <img width="49%" src="./assets/top-languages-light.svg" alt="Top languages across Pesanth's public repositories, by GitHub-reported bytes" />
+  </picture>
 </p>
 
-<sub>Verified through GitHub on 2026-07-23. Contribution totals use GitHub's twelve-month contribution calendar; language percentages use GitHub-reported bytes across owned public repositories.</sub>
+<sub>Rebuilt from the GitHub API every morning, and committed only when a figure changes. Contribution totals use GitHub's twelve-month contribution calendar; language percentages use GitHub-reported bytes across owned public repositories.</sub>
 
 ## Explore the architecture.
 
