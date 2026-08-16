@@ -71,16 +71,6 @@ A retrieval-augmented incident-triage workflow with a dependency-free BM25 index
 
 A Windows desktop utility for discovering, selecting, and bulk-installing WinGet packages through a guided interface, with automated release builds and downloadable binaries.
 
-## Production work with measurable outcomes.
-
-![Delivery pipelines](https://img.shields.io/badge/CI%2FCD_pipelines_delivered-39%2B-475569?style=for-the-badge&labelColor=1E293B)
-![Production incidents](https://img.shields.io/badge/Production_incidents_resolved-50%2B-475569?style=for-the-badge&labelColor=1E293B)
-![Dashboard components](https://img.shields.io/badge/Financial_dashboard_components-24%2B-475569?style=for-the-badge&labelColor=1E293B)
-
-- Delivered 39+ Azure CI/CD pipelines using Ansible and Docker.
-- Resolved 50+ production incidents through log analysis, diagnosis, and root-cause investigation.
-- Built customer-facing financial dashboards across 24+ components.
-
 ## Capabilities.
 
 **Core languages and application development**
