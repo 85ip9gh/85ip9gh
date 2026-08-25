@@ -1,16 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
 <title id="title">Pesanth's GitHub snapshot</title>
-<desc id="desc">3,335 contributions, 25 public repositories, 165 public commits, and 35 pull requests in the twelve months ending 2026-08-25.</desc>
+<desc id="desc">3,341 contributions, 25 public repositories, 168 public commits, and 38 pull requests in the twelve months ending 2026-08-25.</desc>
 <style>
-    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-    @keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    .rise { animation: rise .5s cubic-bezier(.2,.7,.3,1) both; }
-    .sweep { transform-origin: left center; animation: sweep .7s cubic-bezier(.2,.7,.3,1) both; }
-    .grow { transform-origin: left center; animation: grow .8s cubic-bezier(.2,.7,.3,1) both; }
-    @media (prefers-reduced-motion: reduce) {
-      .rise, .sweep, .grow { animation: none; }
-    }
+    .rise, .sweep, .grow { opacity: 1; transform: none; }
 </style>
 <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#ec4899"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#ffffff" stroke="#d0d7de"/>
@@ -23,7 +15,7 @@
 <rect x="22" y="88" width="220" height="40" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="38" cy="108" r="4" fill="#7c3aed"/>
 <text x="52" y="104" fill="#59636e" font-size="9" letter-spacing="0.8">CONTRIBUTIONS</text>
-<text x="52" y="119" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">3,335</text>
+<text x="52" y="119" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">3,341</text>
 </g>
 <g class="rise" style="animation-delay:0.16s" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <rect x="253" y="88" width="220" height="40" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
@@ -35,12 +27,12 @@
 <rect x="22" y="136" width="220" height="40" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="38" cy="156" r="4" fill="#ec4899"/>
 <text x="52" y="152" fill="#59636e" font-size="9" letter-spacing="0.8">PUBLIC COMMITS</text>
-<text x="52" y="167" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">165</text>
+<text x="52" y="167" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">168</text>
 </g>
 <g class="rise" style="animation-delay:0.28s" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <rect x="253" y="136" width="220" height="40" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="269" cy="156" r="4" fill="#22c55e"/>
 <text x="283" y="152" fill="#59636e" font-size="9" letter-spacing="0.8">PULL REQUESTS</text>
-<text x="283" y="167" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">35</text>
+<text x="283" y="167" fill="#1f2328" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">38</text>
 </g>
 </svg>
