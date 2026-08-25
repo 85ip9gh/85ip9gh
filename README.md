@@ -1,81 +1,70 @@
-<h1 align="center">Hi, I'm Pesanth 👋</h1>
-<h3 align="center">Full-stack and backend software engineer in Halifax, Canada</h3>
+<h1 align="center">Pesanth Janaseth</h1>
 
 <p align="center">
-  <a href="https://pesanth.com" target="_blank" rel="noreferrer">🌐 pesanth.com</a>
+  Software engineer · AI-assisted development · Halifax, Canada
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Core Programming Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- Frameworks -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://angular.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <!-- Cloud & DevOps -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/>
-  </a>
+<p align="center">
+  Full-stack engineer with 2+ years of experience delivering financial applications,<br />
+  cloud pipelines, and REST APIs, including AI-assisted development with proven productivity improvements.
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://pesanth.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="portfolio" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/pesanth-janaseth-rangaswamy-anitha-75755b199/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:pesanth10@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="email" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://pesanth.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-pesanth.com-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://pesanth.com/resume/Pesanth_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=for-the-badge&labelColor=1E293B&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pesanth-janaseth-rangaswamy-anitha-75755b199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&labelColor=084F96" /></a>
+  <a href="mailto:contact@pesanth.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40pesanth.com-475569?style=for-the-badge&labelColor=1E293B" /></a>
 </p>
+
+<p align="center">
+  <sub>Open to software engineering roles in Canada.</sub>
+</p>
+
+## Capabilities
+
+**Core languages and application development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud, delivery, and reliability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+## GitHub activity.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
+    <img width="49%" src="./assets/github-stats-light.svg" alt="Pesanth's GitHub snapshot: contributions, public repositories, public commits, and pull requests over the last twelve months" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg" />
+    <img width="49%" src="./assets/top-languages-light.svg" alt="Top languages across Pesanth's public repositories, by GitHub-reported bytes" />
+  </picture>
+</p>
+
+<sub>Rebuilt from the GitHub API every morning, and committed only when a figure changes. Contribution totals use GitHub's twelve-month contribution calendar; language percentages use GitHub-reported bytes across owned public repositories.</sub>
+
+## Explore the architecture.
+
+Every featured project has a recruiter-friendly technical overview covering its purpose, use cases, top-down architecture, engineering decisions, verification evidence, and limitations.
+
+[![Explore the portfolio](https://img.shields.io/badge/Explore_all_projects-pesanth.com-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=googlechrome&logoColor=white)](https://pesanth.com/#work)
