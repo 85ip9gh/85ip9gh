@@ -67,19 +67,16 @@ THEMES = {
 
 FONT = "Segoe UI, Ubuntu, Helvetica, Arial, sans-serif"
 
-# Motion is a fade and a short rise, once, on load. Anything looping would sit
-# on the page moving forever, which is the failure mode of animated profile
-# cards. Readers who ask for less motion get none.
+# The card is drawn in its final, visible state and carries no animation.
+# GitHub serves README images through its camo proxy, and a browser renders an
+# SVG loaded through an <img> in secure static mode, where CSS animations are
+# frozen at their first frame rather than played. An entrance animation that
+# started from opacity:0 or scaleX:0 therefore left every tile and bar stuck
+# invisible on the profile, which read as a blank card. Motion was dropped
+# rather than worked around: the classes below stay only so the markup that
+# references them is unchanged, and they now assert the visible resting state.
 MOTION = """
-    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-    @keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    .rise { animation: rise .5s cubic-bezier(.2,.7,.3,1) both; }
-    .sweep { transform-origin: left center; animation: sweep .7s cubic-bezier(.2,.7,.3,1) both; }
-    .grow { transform-origin: left center; animation: grow .8s cubic-bezier(.2,.7,.3,1) both; }
-    @media (prefers-reduced-motion: reduce) {
-      .rise, .sweep, .grow { animation: none; }
-    }
+    .rise, .sweep, .grow { opacity: 1; transform: none; }
 """
 
 

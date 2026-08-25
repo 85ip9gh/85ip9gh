@@ -2,15 +2,7 @@
 <title id="title">Top public-repository languages</title>
 <desc id="desc">Python 23.7 percent, JavaScript 17.8 percent, Java 14.0 percent, TypeScript 10.9 percent, HTML 9.9 percent, ShaderLab 9.6 percent, and 14.1 percent across other languages. Measured by GitHub-reported bytes.</desc>
 <style>
-    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-    @keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    .rise { animation: rise .5s cubic-bezier(.2,.7,.3,1) both; }
-    .sweep { transform-origin: left center; animation: sweep .7s cubic-bezier(.2,.7,.3,1) both; }
-    .grow { transform-origin: left center; animation: grow .8s cubic-bezier(.2,.7,.3,1) both; }
-    @media (prefers-reduced-motion: reduce) {
-      .rise, .sweep, .grow { animation: none; }
-    }
+    .rise, .sweep, .grow { opacity: 1; transform: none; }
 </style>
 <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
