@@ -1,4 +1,4 @@
-name: Refresh GitHub activity cards
+name: Refresh activity cards
 
 on:
   schedule:
@@ -35,6 +35,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tools/build_stats.py
 
+      - name: Check live sites
+        # No token: every site on the list is public and served through the
+        # tunnel, so this is the same GET a visitor makes.
+        run: python tools/build_status.py
+
       - name: Commit when a figure moved
         run: |
           if [ -z "$(git status --porcelain assets)" ]; then
@@ -44,5 +49,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git commit -m "Refresh the GitHub activity cards"
+          git commit -m "Refresh the activity cards"
           git push
