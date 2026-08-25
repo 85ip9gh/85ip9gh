@@ -47,7 +47,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-## GitHub activity
+## Activity
 
 <p align="center">
   <picture>
@@ -60,7 +60,14 @@
   </picture>
 </p>
 
-<sub>Rebuilt from the GitHub API each morning, committed only when a figure changes.</sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/status-dark.svg" />
+    <img width="49%" src="./assets/status-light.svg" alt="Live status of Pesanth's self-hosted sites, checked from the GitHub Actions runner" />
+  </picture>
+</p>
+
+<sub>GitHub figures rebuilt from the API each morning; live sites pinged from the Actions runner at the same time.</sub>
 
 ## Explore the architecture
 
