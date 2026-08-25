@@ -1,4 +1,4 @@
-<h1 align="center">Pesanth Janaseth</h1>
+<h1 align="center">Pesanth Janaseth Rangaswamy Anitha</h1>
 
 <p align="center">
   Software engineer · Halifax, Canada
