@@ -1,12 +1,11 @@
 <h1 align="center">Pesanth Janaseth</h1>
 
 <p align="center">
-  Software engineer · AI-assisted development · Halifax, Canada
+  Software engineer · Halifax, Canada
 </p>
 
 <p align="center">
-  Full-stack engineer with 2+ years of experience delivering financial applications,<br />
-  cloud pipelines, and REST APIs, including AI-assisted development with proven productivity improvements.
+  Full-stack engineer with 2+ years building financial dashboards, Azure CI/CD pipelines, and REST APIs.
 </p>
 
 <p align="center">
@@ -48,7 +47,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-## GitHub activity.
+## GitHub activity
 
 <p align="center">
   <picture>
@@ -61,10 +60,10 @@
   </picture>
 </p>
 
-<sub>Rebuilt from the GitHub API every morning, and committed only when a figure changes. Contribution totals use GitHub's twelve-month contribution calendar; language percentages use GitHub-reported bytes across owned public repositories.</sub>
+<sub>Rebuilt from the GitHub API each morning, committed only when a figure changes.</sub>
 
-## Explore the architecture.
+## Explore the architecture
 
-Every featured project has a recruiter-friendly technical overview covering its purpose, use cases, top-down architecture, engineering decisions, verification evidence, and limitations.
+Every project has a technical overview of its architecture and design decisions.
 
-[![Explore the portfolio](https://img.shields.io/badge/Explore_all_projects-pesanth.com-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=googlechrome&logoColor=white)](https://pesanth.com/#work)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pesanth.com-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=googlechrome&logoColor=white)](https://pesanth.com/#work)
