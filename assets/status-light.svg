@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
 <title id="title">Self-hosted service status</title>
-<desc id="desc">pesanth.com up 217 ms; carsale.pesanth.com up 144 ms; cubestore.pesanth.com up 158 ms; papers.pesanth.com up 164 ms; sentinel.pesanth.com up 196 ms. Checked 2026-08-25.</desc>
+<desc id="desc">pesanth.com up 247 ms; carsale.pesanth.com up 197 ms; cubestore.pesanth.com up 196 ms; papers.pesanth.com up 164 ms; sentinel.pesanth.com up 211 ms. Checked 2026-08-26.</desc>
 <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#ec4899"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <rect x="22" y="22" width="451" height="4" rx="2" fill="url(#accent)"/>
 <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <text x="22" y="53" fill="#1f2328" font-size="18" font-weight="700">Service status</text>
 <text x="473" y="53" fill="#59636e" font-size="12" text-anchor="end">5/5 up</text>
-<text x="22" y="72" fill="#59636e" font-size="11">Self-hosted sites, checked 2026-08-25</text>
+<text x="22" y="72" fill="#59636e" font-size="11">Self-hosted sites, checked 2026-08-26</text>
 </g>
 <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5">
 <circle cx="30" cy="94" r="4" fill="#1a7f37"/>
 <text x="44" y="98" fill="#1f2328">pesanth.com</text>
-<text x="473" y="98" fill="#59636e" text-anchor="end">217 ms</text>
+<text x="473" y="98" fill="#59636e" text-anchor="end">247 ms</text>
 <circle cx="30" cy="114" r="4" fill="#1a7f37"/>
 <text x="44" y="118" fill="#1f2328">carsale.pesanth.com</text>
-<text x="473" y="118" fill="#59636e" text-anchor="end">144 ms</text>
+<text x="473" y="118" fill="#59636e" text-anchor="end">197 ms</text>
 <circle cx="30" cy="134" r="4" fill="#1a7f37"/>
 <text x="44" y="138" fill="#1f2328">cubestore.pesanth.com</text>
-<text x="473" y="138" fill="#59636e" text-anchor="end">158 ms</text>
+<text x="473" y="138" fill="#59636e" text-anchor="end">196 ms</text>
 <circle cx="30" cy="154" r="4" fill="#1a7f37"/>
 <text x="44" y="158" fill="#1f2328">papers.pesanth.com</text>
 <text x="473" y="158" fill="#59636e" text-anchor="end">164 ms</text>
 <circle cx="30" cy="174" r="4" fill="#1a7f37"/>
 <text x="44" y="178" fill="#1f2328">sentinel.pesanth.com</text>
-<text x="473" y="178" fill="#59636e" text-anchor="end">196 ms</text>
+<text x="473" y="178" fill="#59636e" text-anchor="end">211 ms</text>
 </g>
 </svg>
