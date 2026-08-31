@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
 <title id="title">Top public-repository languages</title>
-<desc id="desc">Python 47.9 percent, JavaScript 12.3 percent, Java 9.8 percent, TypeScript 7.2 percent, ShaderLab 6.6 percent, HTML 5.8 percent, and 10.4 percent across other languages. Measured by GitHub-reported bytes.</desc>
+<desc id="desc">Python 48.3 percent, JavaScript 12.2 percent, Java 9.7 percent, TypeScript 7.2 percent, ShaderLab 6.6 percent, HTML 5.7 percent, and 10.3 percent across other languages. Measured by GitHub-reported bytes.</desc>
 <style>
     .rise, .sweep, .grow { opacity: 1; transform: none; }
 </style>
 <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <text class="rise" x="22" y="45" fill="#f0f6fc" font-size="16" font-weight="700">Top public-repository languages</text>
-<text class="rise" style="animation-delay:.05s" x="22" y="63" fill="#8b949e" font-size="11">GitHub-reported language bytes, verified 2026-08-30</text>
+<text class="rise" style="animation-delay:.05s" x="22" y="63" fill="#8b949e" font-size="11">GitHub-reported language bytes, verified 2026-08-31</text>
 </g>
 <rect x="22" y="76" width="451" height="10" rx="5" fill="#21262d"/>
 <g class="grow" style="transform-origin:22px 81px">
-<rect x="22.0" y="76" width="216.1" height="10" fill="#3572A5"/>
-<rect x="238.1" y="76" width="55.4" height="10" fill="#f1e05a"/>
-<rect x="293.5" y="76" width="44.0" height="10" fill="#b07219"/>
-<rect x="337.5" y="76" width="32.6" height="10" fill="#3178c6"/>
-<rect x="370.1" y="76" width="30.0" height="10" fill="#222c37"/>
-<rect x="400.1" y="76" width="26.0" height="10" fill="#e34c26"/>
-<rect x="426.1" y="76" width="46.9" height="10" fill="#484f58"/>
+<rect x="22.0" y="76" width="218.0" height="10" fill="#3572A5"/>
+<rect x="240.0" y="76" width="55.0" height="10" fill="#f1e05a"/>
+<rect x="295.0" y="76" width="43.6" height="10" fill="#b07219"/>
+<rect x="338.6" y="76" width="32.4" height="10" fill="#3178c6"/>
+<rect x="371.0" y="76" width="29.7" height="10" fill="#222c37"/>
+<rect x="400.7" y="76" width="25.8" height="10" fill="#e34c26"/>
+<rect x="426.5" y="76" width="46.5" height="10" fill="#484f58"/>
 </g>
 <rect x="22" y="76" width="451" height="10" rx="5" fill="none" stroke="#0d1117" stroke-width="0" />
 <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <g class="rise" style="animation-delay:0.15s">
 <circle cx="28" cy="108" r="5" fill="#3572A5"/>
 <text x="42" y="112" fill="#f0f6fc" font-size="12">Python</text>
-<text x="232" y="112" fill="#8b949e" font-size="12" text-anchor="end">47.9%</text>
+<text x="232" y="112" fill="#8b949e" font-size="12" text-anchor="end">48.3%</text>
 </g>
 <g class="rise" style="animation-delay:0.20s">
 <circle cx="259" cy="108" r="5" fill="#f1e05a"/>
 <text x="273" y="112" fill="#f0f6fc" font-size="12">JavaScript</text>
-<text x="463" y="112" fill="#8b949e" font-size="12" text-anchor="end">12.3%</text>
+<text x="463" y="112" fill="#8b949e" font-size="12" text-anchor="end">12.2%</text>
 </g>
 <g class="rise" style="animation-delay:0.25s">
 <circle cx="28" cy="134" r="5" fill="#b07219"/>
 <text x="42" y="138" fill="#f0f6fc" font-size="12">Java</text>
-<text x="232" y="138" fill="#8b949e" font-size="12" text-anchor="end">9.8%</text>
+<text x="232" y="138" fill="#8b949e" font-size="12" text-anchor="end">9.7%</text>
 </g>
 <g class="rise" style="animation-delay:0.30s">
 <circle cx="259" cy="134" r="5" fill="#3178c6"/>
@@ -49,7 +49,7 @@
 <g class="rise" style="animation-delay:0.40s">
 <circle cx="259" cy="160" r="5" fill="#e34c26"/>
 <text x="273" y="164" fill="#f0f6fc" font-size="12">HTML</text>
-<text x="463" y="164" fill="#8b949e" font-size="12" text-anchor="end">5.8%</text>
+<text x="463" y="164" fill="#8b949e" font-size="12" text-anchor="end">5.7%</text>
 </g>
 </g>
 </svg>
