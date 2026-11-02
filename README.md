@@ -12,7 +12,7 @@
   <a href="https://pesanth.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-pesanth.com-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=googlechrome&logoColor=white" /></a>
   <a href="https://pesanth.com/resume/Pesanth_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-475569?style=for-the-badge&labelColor=1E293B&logo=readthedocs&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pesanth-janaseth-rangaswamy-anitha-75755b199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&labelColor=084F96" /></a>
-  <a href="mailto:contact@pesanth.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40pesanth.com-475569?style=for-the-badge&labelColor=1E293B" /></a>
+  <a href="mailto:pesanth10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pesanth10%40gmail.com-475569?style=for-the-badge&labelColor=1E293B" /></a>
 </p>
 
 <p align="center">
